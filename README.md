@@ -16,8 +16,8 @@ Step 3: Configure task.json to enable matplotlibcpp<br />
         "${fileDirname}/${fileBasenameNoExtension}"<br />
       ],<br />
 Step 4: Define new methods in the header file Discretization.h<br />
-void plot_msh();
-void plot_defo_msh();
+void plot_msh();<br />
+void plot_defo_msh();<br />
 Step 5: Code new methods plot_msh() and plot_defo_msh() in the C++ file Discretization.cpp<br />
 Step 6: Call new methods in the NumPro class<br />
 // Plot initial mesh<br />

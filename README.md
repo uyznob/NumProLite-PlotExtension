@@ -1,6 +1,7 @@
 # NumProLite-PlotExtension
 Code examples to add plotting extensions into existing project “NumPro Lite”
 
+
 In the following, I demonstrate how to add two newly-coded methods to the existing project “NumPro Lite” in order to plot the initial and deformed mesh. Matplotlibcpp is the only necessary dependency for these newly-coded methods.
 
 Step 1: Download the project from https://github.com/osolmaz/numpro-lite
